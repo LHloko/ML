@@ -1,7 +1,7 @@
 # MEU PROJETO
 
 ## Primeira Etapa 
-- [ ] Aprender versionamento de código com git 
+- [X] Aprender versionamento de código com git 
 - [ ] Aprender python 
 - [ ] Aprender estrutura de dados em python 
 - [ ] Aprender list/dict comprehesion 
